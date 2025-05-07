@@ -1,0 +1,1 @@
+SELECT 店舗名,ジャンル FROM Foodie WHERE 価格帯=5000;
